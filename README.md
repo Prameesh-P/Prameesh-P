@@ -4,7 +4,7 @@
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prameesh-p" alt="prameesh-p" /></a> -->
 
-- 🌱 I’m currently learning **GOLANG,REACT,FLUTTER,DART**
+- 🌱 I’m currently learning **GOLANG,FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://prameesh-p.github.io/Personal/](https://prameesh-p.github.io/Personal/)
 
