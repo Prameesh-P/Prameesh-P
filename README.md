@@ -18,8 +18,11 @@
 <p align="center">
     <br><br>
     <img alt="Golang" src="https://img.shields.io/badge/Golang-d92959.svg?style=for-the-badge&logo=golang&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="Postgres" src="https://img.shields.io/badge/postgres-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="JWT" src="https://img.shields.io/badge/jwt%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+     <img alt="AWS" src="https://img.shields.io/badge/aws-d92959.svg?style=for-the-badge&logo=golang&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <br><br>
 <h3 align="left">Languages and Tools:</h3>
 
