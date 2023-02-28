@@ -1,39 +1,25 @@
-<h1 align="center">Hi 👋, I'm Prameesh-P</h1>
+# 💫 About Me:
+🌱 I’m currently learning **GOLANG**<br><br>👨‍💻 All of my projects are available at [https://prameesh-p.github.io/Personal/](https://prameesh-p.github.io/Personal/)
 
-<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prameesh-p" alt="prameesh-p" /></a> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prameesh-p) 
 
-- 🌱 I’m currently learning **GOLANG,FLUTTER**
-
-- 👨‍💻 All of my projects are available at [https://prameesh-p.github.io/Personal/](https://prameesh-p.github.io/Personal/)
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://instagram.com/p_r_a_m_e_e_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_r_a_m_e_e_" height="30" width="40" /></a>
-
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prameesh-P&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prameesh-P&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prameesh-P&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </p>
     <p align="center">
       <img align="center" src="https://github.com/Prameesh-P/Prameesh-P/blob/output/github-contribution-grid-snake.svg"/>
     </p>
 <p align="center">
-    <br><br>
-    <img alt="Golang" src="https://img.shields.io/badge/Golang-d92959.svg?style=for-the-badge&logo=golang&logoColor=white"/>
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="JWT" src="https://img.shields.io/badge/jwt%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-     <img alt="AWS" src="https://img.shields.io/badge/aws-d92959.svg?style=for-the-badge&logo=golang&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <br><br>
-<h3 align="left">Languages and Tools:</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Prameesh-P&icon=7&color=12)](https://visitcount.itsvg.in)
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prameesh-p&show_icons=true&locale=en&layout=compact" alt="prameesh-p" /></p>-->
-<!-- ![snake gif](https://github.com/Prameesh-P/Prameesh-P/blob/output/github-contribution-grid-snake.gif)
- -->
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prameesh-p&show_icons=true&locale=en" alt="prameesh-p" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prameesh-p&" alt="prameesh-p" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
