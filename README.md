@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **GOLANG**<br><br>👨‍💻 All of my projects are available at [https://prameesh-p.github.io/Personal/](https://prameesh-p.github.io/Personal/)
+🌱 **GOLANG** Developer<br><br>👨‍💻 All of my projects are available at [https://prameesh-p.github.io/Personal/](https://prameesh-p.github.io/Personal/)
 
 
 ## 🌐 Socials:
