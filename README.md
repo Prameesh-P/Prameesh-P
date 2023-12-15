@@ -16,41 +16,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prameesh-P&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 
-<p align="center">
-    <br><br>
-    <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <br><br>
-    <p align="center">
-        <b>I present this snake in these trying times</b>
-      <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/billyeatcookies" />
-    </p>
-    <!--img src=https://user-images.githubusercontent.com/70792552/164441644-8ccf3b0d-2431-4a0a-903b-eb2f552cbd46.png-->
-</p>
-
-<details align="center">
-<summary>peek</summary>
-    <br>
-    <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
-    <br>
-    <p>
-      <b>Yo!</b><br><br>
-      I'm a goddamn passionate self-taught programmer 👨‍💻 <br>
-      <a href=https://www.instagram.com/p_r_a_m_e_e_>a weird pencil artist</a>, and a CS student, etc. <br><br>
-      I love all studio ghibli films<br>
-      listening to olivia rodrigo and conan grey most of the time
-    </p>
-    <br>
-    <p align="center">
-        <a href="https://github.com/Prameesh-P" target="_blank">
-            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Prameesh-P&show_icons=true&hide_border=true&bg_color=2e2751&text_color=d92959&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
-            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prameesh-P&layout=compact&show_icons=true&hide_border=true&bg_color=2e2751&text_color=9092AB&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
-        </a>
-    </p>
-</details>
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Prameesh-P&icon=7&color=12)](https://visitcount.itsvg.in)
 
